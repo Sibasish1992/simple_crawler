@@ -23,4 +23,4 @@ How to Crawl :
 
 
 
-![image](https://ibb.co/bXC52kv)
+![image](https://i.ibb.co/NKJ2mMN/crawler.jpg)
